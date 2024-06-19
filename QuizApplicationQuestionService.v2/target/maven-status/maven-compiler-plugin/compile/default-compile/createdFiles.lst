@@ -1,0 +1,10 @@
+com\akhil\controller\QuestionsController.class
+com\akhil\config\WebConfig$1.class
+com\akhil\model\Answers.class
+com\akhil\model\Questions.class
+com\akhil\service\QuestionsServiceImpl.class
+com\akhil\config\WebConfig.class
+com\akhil\repo\IQuestionsRepo.class
+com\akhil\Application.class
+com\akhil\service\IQuestionsService.class
+com\akhil\model\QuestionsOnly.class
