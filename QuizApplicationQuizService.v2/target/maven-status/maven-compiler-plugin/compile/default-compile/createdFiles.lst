@@ -1,0 +1,14 @@
+com\akhil\config\WebConfig$1.class
+com\akhil\model\Answers.class
+com\akhil\fieng\IQuizInterface.class
+com\akhil\model\QuizTitles.class
+com\akhil\service\IQuizService.class
+com\akhil\model\QuizRandom.class
+com\akhil\service\QuizServiceImpl.class
+com\akhil\model\Quizzes.class
+com\akhil\controller\QuizController.class
+com\akhil\model\Questions.class
+com\akhil\config\WebConfig.class
+com\akhil\repo\IQuizRepo.class
+com\akhil\Application.class
+com\akhil\model\QuestionsOnly.class
