@@ -1,0 +1,12 @@
+com\akhil\service\IResultsService.class
+com\akhil\model\Results.class
+com\akhil\config\WebConfig$1.class
+com\akhil\model\Answers.class
+com\akhil\controller\ResultController.class
+com\akhil\repo\IResultsRepo.class
+com\akhil\model\QuizSubmit.class
+com\akhil\service\ResultsServiceImpl.class
+com\akhil\model\WelcomeStudent.class
+com\akhil\QuizApplicationResultServiceApplication.class
+com\akhil\config\WebConfig.class
+com\akhil\config\IFeignConfiguration.class
